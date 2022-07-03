@@ -1,0 +1,1 @@
+<img src="/fichiers/images/smileys/067.gif " alt="" title="test" onclick="BaBcode.button(this.getAttribute('data-editor'), this.getAttribute('data-tag'));" data-tag="information" data-editor="babcode" class="babcode-bouton babcode-custom-color-1">
